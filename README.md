@@ -1,6 +1,7 @@
 - Hi, I’m @matheuslohse
 - I’m interested in Control Engineering
-- I’m currently learning C, C++ and Matlab
+- I'm a C, C++ and Matlab programer
+- I’m currently learning Python.
 - For futher informations, please contact me
 - How to reach me matheus.lohse@edu.pucrs.br
 
